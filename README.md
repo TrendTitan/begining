@@ -1,4 +1,4 @@
 # begining
 begining of dev journey
 <br>
-Shrijan sah
+Author - Shrijan sah (data sci)
